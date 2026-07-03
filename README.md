@@ -27,11 +27,7 @@ The following world elements are synchronized between players:
 ### Multiplayer Support
 
 * Supports up to 10 players in one session.
-* Each player keeps their own:
-
-  * Inventory
-  * Health
-  * Energy
+* Each player has their own Inventory, Health and Energy, as well as statuses
 
 ### Shared Combat
 
